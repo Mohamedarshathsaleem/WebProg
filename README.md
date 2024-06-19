@@ -2,7 +2,7 @@
 
 Included Assignments for Web Programming:
 
--Portfolio
--Final project prototype
+-Portfolio<br>
+-Final project prototype<br>
 -Final project(coming soon
-)
+)<br>
